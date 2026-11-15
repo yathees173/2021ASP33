@@ -175,7 +175,7 @@ The project is organised as follows:
 ```text
 Crop_Drought_Gene_Expression/
 ├── README.md
-├── ICA3_Crop_Drought_Gene_Expression.Rproj
+├── Crop_Drought_Gene_Expression.Rproj
 ├── code/
 │   ├── 00_install_packages.R
 │   ├── 01_download_geo_data.R
